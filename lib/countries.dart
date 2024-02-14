@@ -3317,7 +3317,7 @@ const List<Country> countries = [
     code: "IT",
     dialCode: "39",
     minLength: 9,
-    maxLength: 9,
+    maxLength: 11,
   ),
   Country(
     name: "Jamaica",
